@@ -9,3 +9,5 @@ t-SNE (t-distribution stochastic neighborhood embedding)
 
 t-SNE is used to reduce the dimensions from 784 to 2
 It gives better results than PCA (computationally expensive)
+Default parameters:
+perplexity = 30, iteration/step=1000
